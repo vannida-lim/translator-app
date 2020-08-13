@@ -6,14 +6,9 @@ A <code>React</code> frontend web application.
 Built with 💖 && ✨ by <a href='https://github.com/vannida-lim'>Vannida Lim</a>
 </p>
 
-**See it Live** 
-------------
-
-
 **Demo**
 ------------
-
-
+![Demo](src/images/translator-demo.gif)
 
 **Tech Stack**
 --------------
