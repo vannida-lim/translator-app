@@ -5,9 +5,53 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #C6F1E7;
+  overflow: hidden;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.translate {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  margin-bottom: 10px;
+}
+
+#convert {  
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  margin-top: 10px; 
+}
+
+.label {
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.github {
+  display: block;
+  font-weight: 700;
+  text-align: center;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: hotpink;
 }
